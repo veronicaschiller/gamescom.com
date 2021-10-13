@@ -1,0 +1,94 @@
+body,
+html {
+  background-image: url(fundo.jpg);
+
+  background-attachment: fixed;
+}
+
+#cabecalho {
+  background-image: url(Banner-Verônica.png);
+  background-position: center;
+}
+
+#bottom {
+  color: white;
+}
+
+.card-body {
+  background-color: #8b3ec2;
+  font-family: "Raleway", sans-serif;
+  border-radius: 6;
+  color: white;
+}
+.dropdown-menu {
+  background-color: grey;
+  color: white;
+  border-radius: 6px;
+}
+.dropdown-menu a:hover {
+  color: white;
+  background-color: rgb(168, 167, 167);
+  border-radius: 5px;
+}
+.button {
+  color: rgb(0, 177, 74);
+}
+.card-footer {
+  background-color: rgb(218, 216, 216);
+}
+
+.container2 {
+  background-color: #4b0082;
+  color: white;
+  border-bottom: 1px solid #4b0082;
+}
+
+.map {
+  border-radius: 29px;
+}
+.txt {
+  opacity: 0.3;
+}
+
+video {
+  animation: infinite;
+}
+
+.carousel-inner {
+  font-family: "Raleway", sans-serif;
+}
+#bottons {
+  font-size: 20px;
+}
+footer {
+  padding: 5px;
+}
+#box {
+  background-color: #4b0082;
+  border-radius: 29px;
+  padding: 22px;
+  
+}
+#register {
+    background-color: #4b0082;
+   
+}
+#b2{
+    font-family: "Raleway", sans-serif;
+    font-size:15px;
+    
+   
+}
+#title{
+    font-family: "Raleway", sans-serif;
+    font-size:45px;
+}
+
+#cards{
+  font-family: "Raleway", sans-serif;
+  background-color: #8b3ec2;
+  color:white;
+  border-radius: 29px;
+}
+
+
