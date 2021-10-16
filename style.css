@@ -21,13 +21,13 @@ html {
   color: white;
 }
 .dropdown-menu {
-  background-color: grey;
+  background-color: #551186;
   color: white;
   border-radius: 6px;
 }
 .dropdown-menu a:hover {
   color: white;
-  background-color: rgb(168, 167, 167);
+  background-color: rgb(70, 17, 70);
   border-radius: 5px;
 }
 .button {
@@ -37,21 +37,11 @@ html {
   background-color: rgb(218, 216, 216);
 }
 
-.container2 {
-  background-color: #4b0082;
-  color: white;
-  border-bottom: 1px solid #4b0082;
-}
-
 .map {
   border-radius: 29px;
 }
 .txt {
   opacity: 0.3;
-}
-
-video {
-  animation: infinite;
 }
 
 .carousel-inner {
@@ -62,6 +52,7 @@ video {
 }
 footer {
   padding: 5px;
+  background-color: #4b0082;
 }
 #box {
   background-color: #4b0082;
@@ -92,4 +83,11 @@ footer {
   border-radius: 29px;
 }
 
+#box2{
+  font-family: "Raleway", sans-serif;
+}
+ #botton2 a:hover{
+background-color:white ;
+
+ }
 
