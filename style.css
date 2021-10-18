@@ -90,4 +90,21 @@ footer {
 background-color:white ;
 
  }
+#shop{
+  text-align: center;
+  font-size: 50px;
+  font-family: "Raleway", sans-serif;
+}
+
+#servico{
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+.linha2 {
+  color:	#7FFF00;
+}
+#ft2 {
+  color:black;
+}
 
